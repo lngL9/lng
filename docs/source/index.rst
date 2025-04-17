@@ -41,9 +41,9 @@ The brief information on the search results is displayed in a table on the resul
 
 In the detailed page of sample, we will display the detailed information of sample and known spot type, including the source and description of literature, etc.
 
-.. image:: ../Search2.jpg
+.. image:: ../Search3.png
    :align: center
-   :alt: Browse
+   :alt: Search3
 
 Contents
 --------
