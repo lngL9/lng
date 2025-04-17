@@ -31,17 +31,17 @@ In the Search by Spot Type mode, users can determine the scope of sample queries
 
 .. image:: ../Search1.png
    :align: center
-   :alt: Browse
+   :alt: Search1
 
 The brief information on the search results is displayed in a table on the result page. The table describes the Sample ID, Known Spot Label, Technology, etc. Users can click the Sample ID to view the details about each sample.
 
 .. image:: ../Search2.png
    :align: center
-   :alt: Browse
+   :alt: Search2
 
 In the detailed page of sample, we will display the detailed information of sample and known spot type, including the source and description of literature, etc.
 
-.. image:: ../Search3.png
+.. image:: ../Search2.jpg
    :align: center
    :alt: Browse
 
