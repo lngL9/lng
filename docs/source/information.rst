@@ -1,0 +1,5 @@
+1.What information is available in SpatialRef?
+~~~~~~~~~~~~~~~
+
+Spatial omics can capture molecular characteristics, tissue morphology, spatial locations, and the three-dimensional proximity of biological entities, making it possible to create detailed spatial maps and blueprints. Accurate cell type annotation of these spatial spots and domains is a fundamental task in cell and tissue biology. This is crucial for various downstream analyses in spatial omics research. Here, we have developed a SpatialRef 
+`(https://bio.liclab.net/spatialref/) <https://bio.liclab.net/spatialref/>`_, a manually curated spatial omics database. SpatialRef provides expertly annotated spatial omic data and integrates diverse functions for analyzing and displaying the spatial information related to spots or tissues. SpatialRef analyzes these manually annotated spot types to identify and display spot type-specific marker genes, perform GO and KEGG pathway enrichment, explore spatial communication, and spatial trajectory.
