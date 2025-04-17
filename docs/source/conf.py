@@ -16,9 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'recommonmark',
-    'sphinx_markdown_tables'
+    'sphinx.ext.intersphinx'
 ]
 
 intersphinx_mapping = {
