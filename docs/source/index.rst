@@ -53,6 +53,5 @@ Contents
    data
    use
    browse
-   search
    usage
    api
