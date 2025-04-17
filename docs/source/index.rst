@@ -1,4 +1,4 @@
-Welcome to LibingLong's documentation!
+Welcome to LibingLong's documentation!Lumache hosts its documentation on Read the Docs.
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
