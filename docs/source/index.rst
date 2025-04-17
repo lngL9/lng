@@ -31,5 +31,6 @@ Contents
 .. toctree::
 
    usage
+   browse
    api
    test
