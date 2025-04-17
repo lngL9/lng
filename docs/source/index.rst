@@ -53,6 +53,6 @@ Contents
    data
    use
    browse
-   search
+   for_search
    usage
    api
