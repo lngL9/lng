@@ -20,9 +20,11 @@ The “Data-Browser” page adopts an interactive, alphanumeric-sorted table for
 .. image:: ../Browse.png
    :align: center
    :alt: Browse
+
 3.2.Search
 ------------------
 We design three search models, including Search by Spot/Domain Type , Search by Technology and Search by Disease Status.
+
 3.2.1 Search by SpotType
 ^^^^^^^^^^^^^^^^^^^^^
 In the Search by Spot Type mode, users can determine the scope of sample queries by specifying the species and spot/domain type, thus obtaining results of interest.
