@@ -1,0 +1,3 @@
+2.Data Content in SpatialRef?
+~~~~~~~~~~~~~~~
+The current version of SpatialRef aggregates approximately 3 million spots across 11 human and mouse tissue types, further categorized into 182 spot types or spatial domains. These data originate from multiple platforms, including NCBI, HCA, EMBL-EBI, GitHub, and Zenodo, and cover technologies such as MERFISH, 10X Visium, Slide-seq, Slide-seqV2, ST, seqFISH, and CODEX. Notably, the known spot types within SpatialRef adhere to original paper annotations, ensuring accuracy and reliability. Additionally, SpatialRef analyzes these manually annotated spot types to identify and display spot type-specific marker genes, perform GO and KEGG pathway enrichment, explore spatial communication, and spatial trajectory.
