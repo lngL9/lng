@@ -1,4 +1,4 @@
-HELP2.0
+HELP
 ============
 
 1.What information is available in SpatialRef?
