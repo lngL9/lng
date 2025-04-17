@@ -1,4 +1,4 @@
-3.2Search
+3.2 Search
 ------------------
 We design three search models, including Search by Spot/Domain Type , Search by Technology and Search by Disease Status.
 
